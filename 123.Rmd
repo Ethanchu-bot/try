@@ -32,3 +32,13 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 123
 ```
 
+```{r}
+library(sf)
+```
+```{r}
+library(here)
+```
+```{r}
+library(tidyverse)
+```
+
